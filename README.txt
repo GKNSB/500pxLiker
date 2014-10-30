@@ -1,0 +1,1 @@
+The tool is not intented to violate any user terms and agreements of the 500px service. It is just a personal project created only as a personal experimentation and proof of concept.
